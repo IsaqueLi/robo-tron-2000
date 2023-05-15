@@ -72,7 +72,7 @@ main {
 }
 
 .montador {
-    height: 100%;;
+    height: auto;
 }
 
 .montador-conteudo {
